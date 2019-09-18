@@ -1,0 +1,23 @@
+{
+  "name": "hygen-vue",
+  "version": "0.0.1",
+  "description": "VueJs/Nuxt Hygen generators",
+  "author": "Seb.L. (https://github.com/Seb-L)",
+  "main": "index.js",
+  "keywords": [
+    "code-generator",
+    "hygen",
+    "vuejs",
+    "nuxt",
+    "template"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seb-L/hygen-vue.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Seb-L/hygen-vue/issues"
+  },
+  "homepage": "https://github.com/Seb-L/hygen-vue#readme",
+  "license": "MIT"
+}
